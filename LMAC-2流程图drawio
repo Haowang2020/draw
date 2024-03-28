@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-28T14:16:03.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="PQP4xvQXYZUGYHU1SirV" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-28T14:16:22.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="iKRIBax_HfnB4A7py8pt" version="24.2.0" type="github">
   <diagram name="第 1 页" id="pDFlviOL58rpSpM3euqg">
     <mxGraphModel dx="2671" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -265,7 +265,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i07dlmy_f8U9R6yKfrdS-106" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;信道选择&lt;/font&gt;" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;fontStyle=1;fontFamily=Times New Roman;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="719" y="162.5" width="20" height="70" as="geometry" />
+          <mxGeometry x="719" y="162.5" width="20" height="107.5" as="geometry" />
         </mxCell>
         <mxCell id="i07dlmy_f8U9R6yKfrdS-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="i07dlmy_f8U9R6yKfrdS-72" target="i07dlmy_f8U9R6yKfrdS-77">
           <mxGeometry relative="1" as="geometry">
